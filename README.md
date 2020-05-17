@@ -5,7 +5,7 @@ Kudos to [famfamfam](http://www.famfamfam.com/) for creating simple yet beautifu
 ### install
 
 ```
-$ bower install iescarro/fam-css --save
+$ bower install scoollabs/fam-css --save
 ```
 
 ### usage
